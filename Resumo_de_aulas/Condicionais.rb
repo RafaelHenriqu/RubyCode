@@ -1,5 +1,5 @@
 Item1 = "Sword"
-Item2 = "Triade"
+Item2 = "a"
 # Ifs Normal
 if Item1 == "Sword"
   puts "Get Swords"
@@ -10,8 +10,8 @@ end
 # Cases
 
 case Item2
-when "Triade"
-  puts "Get Triades of Lords"
+when "a"
+  puts "Get a"
 when "Life"
   puts "Get Life"
 end
