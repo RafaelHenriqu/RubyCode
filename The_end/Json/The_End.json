@@ -1,0 +1,22 @@
+{
+    "Clear":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "Start":"Olá Jogador(a), \n Seja bem vindo ao meu mundo. \n para iniciamos sua simulação precisamos de certas informaçoes \n responda de forma sincera para ter a melhor experiencia.",
+    "Perguntas":["\nQual Seria o seu nome?","\nAgora precisamos saber sua idade."],
+    "Historia":[
+    "\n Você acabou de acordar em meu mundo",
+    "Oque vocé gostaria de fazer? \n Verificar o lugar aonde você está (1) \n Voltar a dormir (2) \n",
+    "Oque vocé gostaria de fazer agora? \n Voltar a dormir (1) \n Explorar a casa (2) \n Pular pela janela (3)",
+    "Oque Você gostaria de fazer Agora??"
+    ],
+
+    "Respotas":[
+        "\n Em quanto você verificava a casa, você achou uma criatura estanha \n em questão de segundos, sua cabeça rolou para fora do seu corpo \n Sim você morreu.",
+        "\n Você escolheu voltar a dormir, \n em quanto tentava dormir você ouviu soms estanhos vindo da cozinha \n mas mesmo assim você conseguio dormir \n apos 4 horas você acorda.",
+        "\n Você escolheu voltar a dormir \n mas dessa vez você não acordou mais, Você morreu",
+        "\n Por algum motivo idiota você escolheu se jogar da janela, \n mal você sabia que estavá no segundo andar \n SIM VOCÊ MORREU",
+        "\n Explorando a casa você vé que não tem absolutamente nada nessa casa \n Você não sabe quem mora-va nessa casa mas essa pessoa deve ter levado tudo com ela para aonde ela foi"
+
+    ],
+
+    "ERROR":"Desculpa porem essa escolha não existe então você MORREU"
+}
